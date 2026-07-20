@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-label="ProjectOS 项目推进示意">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10251f"/><stop offset="1" stop-color="#1f5d49"/></linearGradient></defs>
+  <rect width="1440" height="900" fill="url(#bg)"/>
+  <circle cx="1210" cy="40" r="390" fill="#69c7a2" opacity=".12"/>
+  <circle cx="120" cy="850" r="330" fill="#e7a83e" opacity=".1"/>
+  <g transform="translate(120 120)">
+    <text x="0" y="68" fill="#d9f5e8" font-family="Arial, sans-serif" font-size="26" letter-spacing="8">PROJECT OPERATING SYSTEM</text>
+    <text x="0" y="184" fill="white" font-family="Arial, sans-serif" font-size="88" font-weight="700">ProjectOS</text>
+    <text x="0" y="238" fill="#b8d9cc" font-family="Arial, sans-serif" font-size="30">SOP · 风险 · 计划 · 复盘</text>
+    <g transform="translate(0 340)">
+      <rect width="1120" height="270" rx="28" fill="#f6f2e8" opacity=".96"/>
+      <g transform="translate(42 42)" font-family="Arial, sans-serif">
+        <rect width="216" height="62" rx="16" fill="#dcebe4"/><text x="28" y="40" fill="#176b52" font-size="23" font-weight="700">项目启动</text>
+        <path d="M230 31h64" stroke="#7f9e91" stroke-width="4"/>
+        <rect x="308" width="216" height="62" rx="16" fill="#dcebe4"/><text x="336" y="40" fill="#176b52" font-size="23" font-weight="700">生成计划</text>
+        <path d="M538 31h64" stroke="#7f9e91" stroke-width="4"/>
+        <rect x="616" width="216" height="62" rx="16" fill="#fff0d1"/><text x="644" y="40" fill="#825111" font-size="23" font-weight="700">风险识别</text>
+        <path d="M846 31h64" stroke="#7f9e91" stroke-width="4"/>
+        <rect x="924" width="130" height="62" rx="16" fill="#e7e8e5"/><text x="952" y="40" fill="#3e4542" font-size="23" font-weight="700">复盘</text>
+        <rect y="116" width="1010" height="86" rx="18" fill="#ffffff" stroke="#d7d2c7"/>
+        <text x="28" y="152" fill="#75776e" font-size="17">当前风险</text><text x="28" y="181" fill="#171914" font-size="24" font-weight="700">需求未锁定 · 测试窗口不足 · FAQ 未完成</text>
+        <rect x="830" y="134" width="148" height="48" rx="24" fill="#ffe1d7"/><text x="866" y="166" fill="#9a3e28" font-size="20" font-weight="700">高风险</text>
+      </g>
+    </g>
+  </g>
+</svg>
