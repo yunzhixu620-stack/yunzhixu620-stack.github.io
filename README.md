@@ -46,7 +46,7 @@ yunzhixu620-stack.github.io/
 
 ## 发布
 
-创建公开仓库 `yunzhixu620-stack/yunzhixu620-stack.github.io`，把本目录内容推送到 `main` 分支，并在 GitHub Pages 中选择从 `main / root` 发布。
+创建公开仓库 `yunzhixu620-stack/yunzhixu620-stack.github.io`，把本目录内容推送到 `main` 分支。仓库内的 GitHub Actions 会先校验项目清单，再自动部署到 GitHub Pages。
 
 发布前至少确认：
 
